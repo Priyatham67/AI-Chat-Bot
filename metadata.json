@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot Platform",
+  "description": "Enterprise AI customer engagement platform to create, train with RAG knowledge bases, customize, test, and deploy intelligent AI assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
